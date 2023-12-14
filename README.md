@@ -8,4 +8,4 @@ server side: managing users for : add, remove, lock, expiration duration, viewin
 
 this project is for **server side**
 
-##It is under development, so there are lot of files
+## It is under development, so there are lot of files
